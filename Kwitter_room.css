@@ -1,0 +1,28 @@
+body{
+    background-color: darkcyan;
+    margin-top: 50px;
+}
+
+.title {
+	color: white;
+	font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+	font-size: 45px;
+	letter-spacing: 10px;
+    margin-left: 80px;
+}
+
+#out {
+	font-size: 15px;
+	float: right;
+}
+
+.white{
+	color: white;
+}
+
+#output {
+	padding: 10px;
+	width: 80%;
+	background: rgba(255, 255, 255, 0.8);
+	border-radius: 15px;
+}

@@ -1,0 +1,10 @@
+body{
+    background-color: darkcyan;
+    margin-top: 200px;
+}
+
+.login{
+    background: rgba(255, 255, 255, 0.8);
+	float: none;
+	border-radius: 15px;
+}
